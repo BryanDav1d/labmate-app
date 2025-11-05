@@ -21,7 +21,7 @@ Permite registrar experimentos, controlar materiales, realizar cálculos, y reci
 | Rol | Integrante |
 |------|-------------|
 | Product Owner / Scrum Master | **Bryan Noboa** |
-| Desarrolladores | **Bryan Noboa**, **Jefferson**, **Jhanira** |
+| Desarrolladores | **Bryan Noboa**, **Jefferson Guaman**, **Jhanira Aranda** |
 
 ---
 
