@@ -117,3 +117,22 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+# --- Firebase ---
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# --- Environment / config ---
+.env
+*.env
+
+# --- VS Code / IntelliJ ---
+.vscode/
+.idea/
+
+# --- Logs & temporales ---
+*.tmp
+*.bak
+*.log
+*.lock
+*.swp
